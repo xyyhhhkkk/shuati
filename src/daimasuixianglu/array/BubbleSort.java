@@ -1,4 +1,4 @@
-package array;
+package daimasuixianglu.array;
 
 public class BubbleSort {
     public static void main(String[] args) {

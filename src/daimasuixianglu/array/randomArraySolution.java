@@ -1,4 +1,4 @@
-package array;
+package daimasuixianglu.array;
 
 import java.util.Random;
 
